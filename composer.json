@@ -13,5 +13,12 @@
         }
     },
 
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Duong\\Product\\ProductServiceProvider"
+            ]
+        }
+    }
 }

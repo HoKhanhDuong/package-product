@@ -1,0 +1,17 @@
+{
+    "name": "admin/product",
+    "authors": [
+        {
+            "name": "HoKhanhDuong",
+            "email": "10dragonball.5onepice.1naruto@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Duong\\Product\\": "src/"
+        }
+    },
+
+    "require": {}
+}
